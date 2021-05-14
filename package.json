@@ -72,7 +72,7 @@
     "ember-cli-node-assets": "^0.1.4",
     "ember-inflector": "^1.9.2",
     "ember-lodash": "0.0.9",
-    "exists-sync": "0.0.3",
+    "exists-sync": "0.1.0",
     "fake-xml-http-request": "^1.4.0",
     "faker": "3.0.1",
     "pretender": "^1.2.0",
