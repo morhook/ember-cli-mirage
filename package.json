@@ -69,7 +69,7 @@
     "broccoli-unwatched-tree": "^0.1.1",
     "chalk": "^1.1.1",
     "ember-cli-babel": "^5.1.5",
-    "ember-cli-node-assets": "^0.1.4",
+    "ember-cli-node-assets": "^0.2.2",
     "ember-inflector": "^1.9.2",
     "ember-lodash": "0.0.9",
     "exists-sync": "0.0.3",
