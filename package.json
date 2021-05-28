@@ -37,7 +37,7 @@
   "dependencies": {
     "@embroider/macros": "^0.40.0",
     "broccoli-file-creator": "^2.1.1",
-    "broccoli-funnel": "^3.0.3",
+    "broccoli-funnel": "^3.0.5",
     "broccoli-merge-trees": "^4.2.0",
     "ember-auto-import": "^1.2.19",
     "ember-cli-babel": "^7.5.0",
